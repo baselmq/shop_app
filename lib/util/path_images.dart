@@ -1,0 +1,32 @@
+class PathImages {
+  static const applePay = 'assets/images/apple-pay.png';
+  static const fedexExpress = 'assets/images/fedex-express.png';
+  static const gloves = 'assets/images/gloves.png';
+  static const googlePay = 'assets/images/google-pay.png';
+  static const imageBanner2 = 'assets/images/ImageBanner2.png';
+  static const imageBanner3 = 'assets/images/ImageBanner3.png';
+  static const imagePopularProduct1 = 'assets/images/ImagePopularProduct1.png';
+  static const imagePopularProduct2 = 'assets/images/ImagePopularProduct2.png';
+  static const imagePopularProduct3 = 'assets/images/ImagePopularProduct3.png';
+  static const mastercard = 'assets/images/mastercard-2.png';
+  static const patternSuccess = 'assets/images/PatternSuccess.png';
+  static const paypal = 'assets/images/paypal.png';
+  static const productImage = 'assets/images/product_image.png';
+  static const profileImage = 'assets/images/Profile_Image.png';
+  static const ps4ConsoleBlue1 = 'assets/images/ps4_console_blue_1.png';
+  static const ps4ConsoleBlue2 = 'assets/images/ps4_console_blue_2.png';
+  static const ps4ConsoleBlue3 = 'assets/images/ps4_console_blue_3.png';
+  static const ps4ConsoleBlue4 = 'assets/images/ps4_console_blue_4.png';
+  static const ps4ConsoleWhite1 = 'assets/images/ps4_console_white_1.png';
+  static const ps4ConsoleWhite2 = 'assets/images/ps4_console_white_2.png';
+  static const ps4ConsoleWhite3 = 'assets/images/ps4_console_white_3.png';
+  static const ps4ConsoleWhite4 = 'assets/images/ps4_console_white_4.png';
+  static const shoes = 'assets/images/shoes2.png';
+  static const splash1 = 'assets/images/splash_1.png';
+  static const splash2 = 'assets/images/splash_2.png';
+  static const splash3 = 'assets/images/splash_3.png';
+  static const success = 'assets/images/success.png';
+  static const tShirt = 'assets/images/t-shirt.png';
+  static const visa = 'assets/images/visa.png';
+  static const wirelessHeadset = 'assets/images/wireless_headset.png';
+}
